@@ -3,12 +3,6 @@ permalink: /cv/participation/
 title: "CV - Participation in Conferences, Workshops, and Seminars"
 ---
 
-<style>
-	.small-list {
-		font-size: 0.92em;
-	}
-</style>
-
 [Back to CV index](/cv/)
 
 <div class="small-list">
@@ -17,7 +11,7 @@ title: "CV - Participation in Conferences, Workshops, and Seminars"
 
 ### Organization
 20. Member of the scientific and organizing committee of the workshop Mathematics for planet Earth (M4E) 2024.
-[Politecnico di Milano](https://www.polimi.it/), Italy. 11–12 Nov. 2024. Web site www.mate.polimi.it/events/M4E24.
+[Politecnico di Milano](https://www.polimi.it/en), Italy. 11–12 Nov. 2024. Web site [https://www.mate.polimi.it/events/M4E24](https://www.mate.polimi.it/events/M4E24).
 19. Minisymposium title Theoretical and numerical advances for mixed-dimensional 3d-1d coupling at the Seventh
 Chilean Workshop on Numerical Analysis of Partial Differential Equations (WONAPDE 2024), 4 participants. Universidad de Concepción, Concepción, Chile. 15–19 Jan. 2024. Co-organizers Luca Formaggia and Miroslav Kuchta.
 18. Minisymposium title Theoretical and numerical advances for mixed-dimensional 3d-1d coupling at the SIAM Mathematical & Computational Issues on Geosciences (SIAM-GS), 8 participants. University of Bergen, Bergen, Norvegia. 19–22 Jun. 2023. Co-organizer Stefano Scialò.
@@ -35,8 +29,8 @@ Sep. 2021. Co-organizer Stefano Scialò.
 at SIAM Mathematical & Computational Issues on Geosciences (SIAM-GS) 2021, 5 participants. Politecnico di
 Milano, Milan, Italy (Held Online). 21–24 Jun. 2021. Co-organizers Rene de Borst.
 13. Member of the local organizing committee of the conference SIAM Mathematical & Computational Issues on
-Geosciences (SIAM-GS) 2021. [Politecnico di Milano](https://www.polimi.it/), Milan, Italy (Held Online). 21–24 Jun. 2021. Web site
-siam.org/conferences/cm/conference/gs21.
+Geosciences (SIAM-GS) 2021. [Politecnico di Milano](https://www.polimi.it/en), Milan, Italy (Held Online). 21–24 Jun. 2021. Web site
+[https://siam.org/conferences/cm/conference/gs21](https://siam.org/conferences/cm/conference/gs21).
 12. Minisymposium title Verification benchmarks for single-phase flow in three-dimensional fractured porous media at
 SIAM Mathematical & Computational Issues on Geosciences (SIAM-GS) 2019, 8 participants. Houston Marriott
 Westchase, Houston, Texas, USA. 11–14 Mar. 2019. Co-organizers Inga Berre, Wietse M. Boon, Bernd Flemisch,
@@ -230,9 +224,9 @@ Matematica Italiana (UMI). Dipartimento di Matematica dell’Università di Bol
 Mathematical & Computational Issues on Geosciences. Hilton Long Beach Centre, Long Beach, California, USA.
 21–24 Mar. 2011. Co-author Anna Scotti.
 3. Models for oil expulsion and migration in fractured media. Reduction Strategies for the Simulation of Complex
-Problems. MOX, [Department of Mathematics](https://www.mate.polimi.it/), [Politecnico di Milano](https://www.polimi.it/), Milan, Italy. 19–21 Jan. 2011. Co-authors
+Problems. MOX, [Department of Mathematics](https://www.mate.polimi.it/), [Politecnico di Milano](https://www.polimi.it/en), Milan, Italy. 19–21 Jan. 2011. Co-authors
 Luca Formaggia, Anna Scotti
-2. Darcy solvers. Second LifeV annual meeting. MOX, [Department of Mathematics](https://www.mate.polimi.it/), [Politecnico di Milano](https://www.polimi.it/), Milan,
+2. Darcy solvers. Second LifeV annual meeting. MOX, [Department of Mathematics](https://www.mate.polimi.it/), [Politecnico di Milano](https://www.polimi.it/en), Milan,
 Italy. 3–4 Jan. 2011.
 1. Computational aspects for oil secondary migration. Seminar held at INRIA Roquencourt, Paris, France. 16 Sep.
 2010. Organizers: Jérôme Jaffré, Michel Kern. Invited.

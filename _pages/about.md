@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-I am Alessio Fumagalli, Ph.D., Associate Professor at the [Department of Mathematics](https://www.mate.polimi.it/), [Politecnico di Milano](https://www.polimi.it/), where I conduct research and teaching activities in applied and computational mathematics.
+I am Alessio Fumagalli, Ph.D., Associate Professor at the [Department of Mathematics](https://www.mate.polimi.it/), [Politecnico di Milano](https://www.polimi.it/en), where I conduct research and teaching activities in applied and computational mathematics.
 
 My research focuses on mathematical modeling and numerical methods for flow and transport in fractured porous media, with a strong interest in mixed-dimensional models and advanced discretization methods.
 
