@@ -54,7 +54,7 @@ author_profile: false
 
 <div class="home-hero">
   <div class="home-hero-text">
-    <p class="home-affiliation">[Department of Mathematics](https://www.mate.polimi.it/), [Politecnico di Milano](https://www.polimi.it/en)</p>
+    <p class="home-affiliation"><a href="https://www.mate.polimi.it/">Department of Mathematics</a>, <a href="https://www.polimi.it/en">Politecnico di Milano</a></p>
     <p>Welcome to my academic homepage. Here you can find my curriculum vitae, research profile, and education activities.</p>
     <p class="home-actions">
       <a class="btn btn--primary" href="/assets/files/cv.pdf">Download CV (PDF)</a>
