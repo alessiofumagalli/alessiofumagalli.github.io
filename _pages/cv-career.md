@@ -1,9 +1,16 @@
 ---
 permalink: /cv/career/
-title: "CV - Career, Education, and Research"
+title: "Career and Education"
 ---
 
 <a href="/cv/">Back to CV index</a>
+
+<nav class="toc">
+  <strong>On this page:</strong>
+  <a href="#professional-experience">Professional experience</a> ·
+  <a href="#education">Education</a> ·
+  <a href="#italian-national-scientific-qualification">Italian national scientific qualification</a>
+</nav>
 
 ## Professional experience
 <ol reversed class="small-list">
@@ -23,6 +30,7 @@ title: "CV - Career, Education, and Research"
 
   <li>2010, Sep. and 2011, Feb. Scientific collaboration with Michel Kern, Inria-Roquencourt, Paris France, in writing and testing a three-dimensional two-phase flow solver in a parallel computing framework.</li>
 </ol>
+
 ## Education
 <ol reversed class="small-list">
   <li>2009, Jan. – 2012, May Doctor of Philosophy in Mathematical Models and Methods in Engineering at Politecnico di Milano, Italy. Thesis Numerical Modelling of Flows in Fractured Porous Media by the XFEM Method. Advisor Luca Formaggia. External examiners Paolo Ruffo and Jérôme Jaffré. Members of the dissertation committee: Maurizio Falcone, Miguel Fernandez, Jérôme Jaffré, Paolo Ruffo, Enrico Zio. Defence 8 May 2012. In collaboration with ENI S.p.a. Exploration & Production Division.</li>
@@ -31,16 +39,7 @@ title: "CV - Career, Education, and Research"
 
   <li>2003, Sep. – 2006, Sep. Bachelor degree in Mathematical Engineering at <a href="https://www.polimi.it/en">Politecnico di Milano</a>, Italy. Thesis Adaptive algorithms for the Black & Scholes equation. Advisor Alessandro Veneziani.</li>
 </ol>
+
 ## Italian national scientific qualification
 Valid from the 11 Dec. 2023 to 11 Dec. 2034 for the academic discipline 01/A5 - Numerical Analysis (MAT/08) qualification as Full Professor.
-
-## Research outline
-Starting from my Ph.D., the central thread of my research is to introduce, extend, and analyse advanced mathematical
-models and non-standard numerical schemes, to facilitate and increase the knowledge of flow in fractured porous media.
-Keeping in mind real applications, I focused my research mainly on 2 aspects. 1) To derive appropriate reduced order
-models (hybrid-dimensional approach) to accurately describe the scalar transport, single-phase and multi-phase flow in
-a complex system of fractures. Particular attention is devoted to the mutual interaction between fractures and between
-a fracture and the surrounding rock matrix. 2) To facilitate the numerical solution of such models by studying nonstandard numerical schemes (e.g. XFEM, VEM), where the structural geometrical constraints imposed by the fractures
-are consistently relaxed. This allows the solution of more complex problems in an affordable amount of time and lightens
-the gridding process.
 

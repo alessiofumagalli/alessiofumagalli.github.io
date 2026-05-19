@@ -1,15 +1,23 @@
 ---
 permalink: /cv/participation/
-title: "CV - Participation in Conferences, Workshops, and Seminars"
+title: "Participation in Conferences, Workshops, and Seminars"
 ---
 
 <a href="/cv/">Back to CV index</a>
+
+<nav class="toc">
+  <strong>On this page:</strong>
+  <a href="#organization">Organization</a> ·
+  <a href="#oral-presentations">Oral presentations</a> ·
+  <a href="#poster-presentations">Poster presentations</a>
+</nav>
 
 <div class="small-list">
 
 ## Participation to conferences, workshops and seminars
 
 ### Organization
+
 <ol reversed class="small-list">
   <li>Member of the scientific and organizing committee of the workshop Mathematics for planet Earth (M4E) 2024. <a href="https://www.polimi.it/en">Politecnico di Milano</a>, Italy. 11–12 Nov. 2024. Web site <a href="https://www.mate.polimi.it/events/M4E24">https://www.mate.polimi.it/events/M4E24</a>.</li>
 
@@ -51,7 +59,9 @@ title: "CV - Participation in Conferences, Workshops, and Seminars"
 
   <li>Minisymposium title Numerical resolution of PDE: the potentiality of the LifeV library at Società Italiana per la Matematica Applicata e Industriale (SIMAI) Biannual Congress, 4 participants. Politecnico di Torino, Turin, Italy. 25–26 Jun. 2012. Co-organizer Franco Dassi.</li>
 </ol>
+
 ### Oral presentations
+
 <ol reversed class="small-list">
   <li><strong>Reduced-order modeling techniques for subsurface simulations</strong>. <em>Online seminar at Applied Mathematics and Computation Seminars</em>, <a href="https://math.oregonstate.edu">Department of Mathematics</a>, Oregon State University. 16 Jan. 2026. Co-authors Enrico Ballini, Wietse M. Boon, Luca Formaggia, Nicola R. Franco, Anna Scotti, Paolo Zunino. Invited.</li>
 
@@ -179,7 +189,9 @@ title: "CV - Participation in Conferences, Workshops, and Seminars"
 
   <li><strong>Computational aspects for oil secondary migration</strong>. <em>Seminar held at INRIA Roquencourt, Paris, France</em>. 16 Sep. Organizers: Jérôme Jaffré, Michel Kern. Invited.</li>
 </ol>
+
 ### Poster presentations
+
 <ol reversed class="small-list">
   <li><strong>Mixed-dimensional MVEM for real fractured geothermal systems</strong>. <em>Dobbiaco summer school - Theory and Practice of the Virtual Element Methods</em>. Dobbiaco, Italy. 17-22 Jun. 2018. Co-author Eirik Keilegavlen.</li>
 

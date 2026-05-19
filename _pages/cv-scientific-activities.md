@@ -5,6 +5,15 @@ title: "CV - Scientific Activities"
 
 <a href="/cv/">Back to CV index</a>
 
+<nav class="toc">
+  <strong>On this page:</strong>
+  <a href="#articles-published">Articles published</a> ·
+  <a href="#conference-proceedings">Conference proceedings</a> ·
+  <a href="#articles-submitted-for-review">Articles submitted for review</a> ·
+  <a href="#open-source-software-development">Open-source software development</a> ·
+  <a href="#editorial-activities">Editorial activities</a>
+</nav>
+
 <div class="small-list">
 
 ## Scientific activities

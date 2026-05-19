@@ -5,6 +5,14 @@ title: "CV - Educational Activities"
 
 <a href="/cv/">Back to CV index</a>
 
+<nav class="toc">
+  <strong>On this page:</strong>
+  <a href="#teaching-activities">Teaching activities</a> ·
+  <a href="#phd-student-advising">PhD student advising</a> ·
+  <a href="#student-advising">Student advising</a> ·
+  <a href="#pedagogical-training">Pedagogical training</a>
+</nav>
+
 <div class="small-list">
 
 ## Educational activities

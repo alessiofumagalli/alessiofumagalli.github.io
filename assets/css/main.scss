@@ -6,6 +6,16 @@
 @import "minimal-mistakes/skins/default";
 @import "minimal-mistakes";
 
+nav.toc {
+  font-size: 0.88em;
+  margin: 0.75rem 0 1.25rem;
+  color: #555;
+}
+
+nav.toc a {
+  white-space: nowrap;
+}
+
 .small-list {
   font-size: 0.92em;
 }
