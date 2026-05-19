@@ -6,31 +6,31 @@ title: "Education"
 ## Teaching activities
 
 <ol reversed class="small-list">
-  <li>3-11 Nov. 2025: lecturer of the master course Modeling and Simulation of Fault Stability in Subsurface Fluid Injection, School of Civil Engineering, Xi’an University of Architecture & Technology, China.</li>
+  <li>3-11 Nov. 2025: lecturer of the master course <strong>Modeling and Simulation of Fault Stability in Subsurface Fluid Injection</strong>, School of Civil Engineering, Xi’an University of Architecture & Technology, China.</li>
 
-  <li>A.Y. 2023-2024: lecturer of the undergraduate course Curves and Surfaces for the Design, Product Design, <a href="https://www.polimi.it/en">Politecnico di Milano</a>.</li>
+  <li>A.Y. 2023-2024: lecturer of the undergraduate course <strong>Curves and Surfaces for the Design</strong>, Product Design, <a href="https://www.polimi.it/en">Politecnico di Milano</a>.</li>
 
-  <li>13-21 Dec. 2023: lecturer of the master course Numerical simulation methods in fractured porous media for seepage flow, School of Civil Engineering, Xi’an University of Architecture & Technology, China.</li>
+  <li>13-21 Dec. 2023: lecturer of the master course <strong>Numerical simulation methods in fractured porous media for seepage flow</strong>, School of Civil Engineering, Xi’an University of Architecture & Technology, China.</li>
 
-  <li>A.Y. 2023-2024, A.Y. 2024-2025, A.Y. 2025-2026: lecturer of the master course Numerical methods for the geosciences, <a href="https://www.mate.polimi.it/">Department of Mathematics</a>, <a href="https://www.polimi.it/en">Politecnico di Milano</a>. In collaboration with Anna Scotti.</li>
+  <li>A.Y. 2023-2024, A.Y. 2024-2025, A.Y. 2025-2026: lecturer of the master course <strong>Numerical methods for the geosciences</strong>, <a href="https://www.mate.polimi.it/">Department of Mathematics</a>, <a href="https://www.polimi.it/en">Politecnico di Milano</a>. In collaboration with Anna Scotti.</li>
 
-  <li>A.Y. 2021-2022: lecturer of the Ph.D. course Numerical methods for the geosciences, <a href="https://www.mate.polimi.it/">Department of Mathematics</a>, <a href="https://www.polimi.it/en">Politecnico di Milano</a>. In collaboration with Anna Scotti.</li>
+  <li>A.Y. 2021-2022: lecturer of the Ph.D. course <strong>Numerical methods for the geosciences</strong>, <a href="https://www.mate.polimi.it/">Department of Mathematics</a>, <a href="https://www.polimi.it/en">Politecnico di Milano</a>. In collaboration with Anna Scotti.</li>
 
-  <li>A.Y. 2020-2021, A.Y. 2021-2022, A.Y. 2022-2023, A.Y. 2023-2024, A.Y. 2024-2025, A.Y. 2025-2026: lecturer of the undergraduate course Analytical and numerical methods for engineer, Energy Engineer, <a href="https://www.polimi.it/en">Politecnico di Milano</a>.</li>
+  <li>A.Y. 2020-2021, A.Y. 2021-2022, A.Y. 2022-2023, A.Y. 2023-2024, A.Y. 2024-2025, A.Y. 2025-2026: lecturer of the undergraduate course <strong>Analytical and numerical methods for engineer</strong>, Energy Engineer, <a href="https://www.polimi.it/en">Politecnico di Milano</a>.</li>
 
-  <li>A.Y. 2020-2021: lecturer of the Ph.D. course Models and methods for simulations and hydro-mechanical coupling, <a href="https://www.mate.polimi.it/">Department of Mathematics</a>, <a href="https://www.polimi.it/en">Politecnico di Milano</a>.</li>
+  <li>A.Y. 2020-2021: lecturer of the Ph.D. course <strong>Models and methods for simulations and hydro-mechanical coupling</strong>, <a href="https://www.mate.polimi.it/">Department of Mathematics</a>, <a href="https://www.polimi.it/en">Politecnico di Milano</a>.</li>
 
-  <li>A.Y. 2019-2020, A.Y. 2020-2021, A.Y. 2021-2022, A.Y. 2022-2023, A.Y. 2023-2024, A.Y. 2024-2025, A.Y. 20252026: lecturer of the undergraduate course Curves and Surfaces for the Design, Communication Design, Politecnico di Milano.</li>
+  <li>A.Y. 2019-2020, A.Y. 2020-2021, A.Y. 2021-2022, A.Y. 2022-2023, A.Y. 2023-2024, A.Y. 2024-2025, A.Y. 2025-2026: lecturer of the undergraduate course <strong>Curves and Surfaces for the Design</strong>, Communication Design, Politecnico di Milano.</li>
 
-  <li>A.Y. 2019-2020: lecturer of the graduate course Functional analysis and numerics for PDEs, Department of Energy, <a href="https://www.polimi.it/en">Politecnico di Milano</a>.</li>
+  <li>A.Y. 2019-2020: lecturer of the graduate course <strong>Functional analysis and numerics for PDEs</strong>, Department of Energy, <a href="https://www.polimi.it/en">Politecnico di Milano</a>.</li>
 
-  <li>A.Y. 2018-2019: lecturer of the Ph.D. course Models and methods for simulations and hydro-mechanical coupling, <a href="https://www.polito.it/en/education/departments-and-schools/department-of-mathematical-sciences">Department of Mathematics</a>, Politecnico di Torino.</li>
+  <li>A.Y. 2018-2019: lecturer of the Ph.D. course <strong>Models and methods for simulations and hydro-mechanical coupling</strong>, <a href="https://www.polito.it/en/education/departments-and-schools/department-of-mathematical-sciences">Department of Mathematics</a>, Politecnico di Torino.</li>
 
-  <li>A.Y. 2018-2019: assistant lecturer for the graduate course Numerical modeling, Mechanical Engineering, Politecnico di Torino. Lecturer Claudio Canuto.</li>
+  <li>A.Y. 2018-2019: assistant lecturer for the graduate course <strong>Numerical modeling</strong>, Mechanical Engineering, Politecnico di Torino. Lecturer Claudio Canuto.</li>
 
-  <li>A.Y. 2017-2018: lecturer for the graduate and Ph.D. course Functional analysis, <a href="https://www.uib.no/en/math">Department of Mathematics</a>, University of Bergen.</li>
+  <li>A.Y. 2017-2018: lecturer for the graduate and Ph.D. course <strong>Functional analysis</strong>, <a href="https://www.uib.no/en/math">Department of Mathematics</a>, University of Bergen.</li>
 
-  <li>A.Y. 2017-2018: lecturer for the graduate and Ph.D. course Flow in Porous Media, <a href="https://www.uib.no/en/math">Department of Mathematics</a>, University of Bergen. In collaboration with Florin Adrian Radu.</li>
+  <li>A.Y. 2017-2018: lecturer for the graduate and Ph.D. course <strong>Flow in Porous Media</strong>, <a href="https://www.uib.no/en/math">Department of Mathematics</a>, University of Bergen. In collaboration with Florin Adrian Radu.</li>
 </ol>
 
 ## PhD student advising
@@ -70,6 +70,6 @@ title: "Education"
 ## Pedagogical training
 
 <ol reversed class="small-list">
-  <li>A.Y. 2017-2018: attending the course Hot Moments in Teaching and Learning: Handling Conflict or Tension in the Classroom and Supervision Situations, Program for University Pedagogy, Faculty of Psychology, University of Bergen. Lecturer Yael Harlap. 18 hours.</li>
+  <li>A.Y. 2017-2018: attending the course <strong>Hot Moments in Teaching and Learning: Handling Conflict or Tension in the Classroom and Supervision Situations</strong>, Program for University Pedagogy, Faculty of Psychology, University of Bergen. Lecturer Yael Harlap. 18 hours.</li>
 </ol>
 

@@ -25,3 +25,9 @@ ul.small-list,
 .small-list li:last-child {
   margin-bottom: 0;
 }
+
+.page__content a,
+.small-list a {
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
