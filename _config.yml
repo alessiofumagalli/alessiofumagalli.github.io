@@ -1,0 +1,54 @@
+title: "Alessio Fumagalli"
+name: "Alessio Fumagalli"
+description: "Academic homepage"
+url: "https://alessiofumagalli.github.io"
+baseurl: ""
+repository: "alessiofumagalli/alessiofumagalli.github.io"
+
+remote_theme: "mmistakes/minimal-mistakes@4.27.1"
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+minimal_mistakes_skin: "default"
+search: true
+
+author:
+  name: "Alessio Fumagalli"
+  bio: "Department of Mathematics, Politecnico di Milano"
+  location: "Milan, Italy"
+  email: "alessio.fumagalli@polimi.it"
+  links:
+    - label: "ORCID"
+      icon: "fas fa-fw fa-id-card"
+      url: "https://orcid.org/0000-0003-3039-5309"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=hvVAbjUAAAAJ&hl=en"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/alessiofumagalli"
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+include:
+  - _pages
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/alessiofumagalli"
