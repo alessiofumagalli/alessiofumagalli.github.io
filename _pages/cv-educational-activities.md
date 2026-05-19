@@ -3,10 +3,19 @@ permalink: /cv/educational-activities/
 title: "CV - Educational Activities"
 ---
 
+<style>
+	.small-list {
+		font-size: 0.92em;
+	}
+</style>
+
 [Back to CV index](/cv/)
 
-Educational activities
-Teaching activities
+<div class="small-list">
+
+## Educational activities
+
+### Teaching activities
 13. 3-11 Nov. 2025: lecturer of the master course Modeling and Simulation of Fault Stability in Subsurface Fluid Injection, School of Civil Engineering, Xi’an University of Architecture & Technology, China.
 12. A.Y. 2023-2024: lecturer of the undergraduate course Curves and Surfaces for the Design, Product Design, [Politecnico di Milano](https://www.polimi.it/).
 11. 13-21 Dec. 2023: lecturer of the master course Numerical simulation methods in fractured porous media for seepage
@@ -29,12 +38,12 @@ di Torino. Lecturer Claudio Canuto.
 2. A.Y. 2017-2018: lecturer for the graduate and Ph.D. course Functional analysis, [Department of Mathematics](https://www.uib.no/en/math), University of Bergen.
 1. A.Y. 2017-2018: lecturer for the graduate and Ph.D. course Flow in Porous Media, [Department of Mathematics](https://www.uib.no/en/math),
 University of Bergen. In collaboration with Florin Adrian Radu.
-PhD student advising
+### PhD student advising
 2. Enrico Ballini. Advisor: Luca Formaggia, Co-advisor: Alessio Fumagalli. [Politecnico di Milano](https://www.polimi.it/), Nov. 2024.
 1. Lorenzo Panzeri. Advisor: Laura Longoni, Co-advisor: Alessio Fumagalli. [Politecnico di Milano](https://www.polimi.it/), Nov. 2025.
 
 
-Student advising
+### Student advising
 10. Michela De Gabriele. “Modeling temperature-driven fluid flow in porous media with Mixed and Finite Volume
 method”. Advisor: Alessio Fumagalli. Master Thesis. [Politecnico di Milano](https://www.polimi.it/), Oct. 2024.
 9. Chiara Giovannini. “Predicting nonlinear-flow regions in highly heterogeneous porous media using adaptive constitutive laws and neural networks”. Advisor: Alessio Fumagalli. Co-Advisor: Francesco S. Patacchini. Master Thesis.
@@ -56,8 +65,10 @@ Milano, Feb. 2015.
 Co-advisor: Alessio Fumagalli. Master Thesis. [Politecnico di Milano](https://www.polimi.it/), July 2013.
 1. Guido Iori. “Una metodologia XFEM per problemi ellittici 3D con superfici di discontinuità”. Advisor: Luca
 Formaggia. Co-advisor: Alessio Fumagalli. Master Thesis. [Politecnico di Milano](https://www.polimi.it/), Dec. 2011.
-Pedagogical training
+### Pedagogical training
 1. A.Y. 2017-2018: attending the course Hot Moments in Teaching and Learning: Handling Conflict or Tension in
 the Classroom and Supervision Situations, Program for University Pedagogy, Faculty of Psychology, University of
 Bergen. Lecturer Yael Harlap. 18 hours.
+
+</div>
 

@@ -3,10 +3,19 @@ permalink: /cv/participation/
 title: "CV - Participation in Conferences, Workshops, and Seminars"
 ---
 
+<style>
+	.small-list {
+		font-size: 0.92em;
+	}
+</style>
+
 [Back to CV index](/cv/)
 
-Participation to conferences, workshops and seminars
-Organization
+<div class="small-list">
+
+## Participation to conferences, workshops and seminars
+
+### Organization
 20. Member of the scientific and organizing committee of the workshop Mathematics for planet Earth (M4E) 2024.
 [Politecnico di Milano](https://www.polimi.it/), Italy. 11–12 Nov. 2024. Web site www.mate.polimi.it/events/M4E24.
 19. Minisymposium title Theoretical and numerical advances for mixed-dimensional 3d-1d coupling at the Seventh
@@ -58,7 +67,7 @@ Matematica Applicata e Industriale (SIMAI) Biannual Congress, 4 participants. Po
 25–26 Jun. 2012. Co-organizer Franco Dassi.
 
 
-Oral presentations
+### Oral presentations
 63. Reduced-order modeling techniques for subsurface simulations. Online seminar at Applied Mathematics and Computation Seminars, [Department of Mathematics](https://math.oregonstate.edu), Oregon State University. 16 Jan. 2026. Co-authors Enrico Ballini,
 Wietse M. Boon, Luca Formaggia, Nicola R. Franco, Anna Scotti, Paolo Zunino. Invited.
 62. Model Reduction Methods for Efficient Simulation of Faulted Poroelastic Media. Seminar at Xi’an University of
@@ -227,7 +236,7 @@ Luca Formaggia, Anna Scotti
 Italy. 3–4 Jan. 2011.
 1. Computational aspects for oil secondary migration. Seminar held at INRIA Roquencourt, Paris, France. 16 Sep.
 2010. Organizers: Jérôme Jaffré, Michel Kern. Invited.
-Poster presentations
+### Poster presentations
 7. Mixed-dimensional MVEM for real fractured geothermal systems. Dobbiaco summer school - Theory and Practice
 of the Virtual Element Methods. Dobbiaco, Italy. 17-22 Jun. 2018. Co-author Eirik Keilegavlen.
 6. A mathematical approach for fractured geothermal system. InterPore Norwegian Chapter, 1st National Workshop on
@@ -249,6 +258,8 @@ Kern.
 1. Reduced models for fractures in porous media with non-matching grids. 4th International Conference on Porous
 Media of the International Society of Porous Media (InterPore). Purdue University, Lafayette, Indiana, USA. 14–16
 May 2012. Co-authors Luca Formaggia, Anna Scotti.
+
+</div>
 
 Milano, Italy, 19 May 2026
 

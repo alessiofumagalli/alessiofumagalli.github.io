@@ -5,7 +5,7 @@ title: "CV - Career, Education, and Research"
 
 [Back to CV index](/cv/)
 
-Professional experience
+## Professional experience
 2022, Dec. – Associate Professor at the [Department of Mathematics](https://www.mate.polimi.it/), [Politecnico di Milano](https://www.polimi.it/), Italy.
 2019, Dec. – 2022, Nov. Assistant Professor Tenure Track (RTD-B) at the [Department of Mathematics](https://www.mate.polimi.it/), Politecnico di
 Milano, Italy.
@@ -25,7 +25,7 @@ media and in parallel computing framework. In collaboration with ENI S.p.a. Expl
 testing a three-dimensional two-phase flow solver in a parallel computing framework.
 
 
-Education
+## Education
 2009, Jan. – 2012, May Doctor of Philosophy in Mathematical Models and Methods in Engineering at Politecnico di
 Milano, Italy. Thesis Numerical Modelling of Flows in Fractured Porous Media by the XFEM Method. Advisor
 Luca Formaggia. External examiners Paolo Ruffo and Jérôme Jaffré.
@@ -36,10 +36,10 @@ In collaboration with ENI S.p.a. Exploration & Production Division.
 2003, Sep. – 2006, Sep. Bachelor degree in Mathematical Engineering at [Politecnico di Milano](https://www.polimi.it/), Italy. Thesis Adaptive
 algorithms for the Black & Scholes equation. Advisor Alessandro Veneziani.
 
-Italian national scientific qualification
+## Italian national scientific qualification
 Valid from the 11 Dec. 2023 to 11 Dec. 2034 for the academic discipline 01/A5 - Numerical Analysis (MAT/08) qualification as Full Professor.
 
-Research outline
+## Research outline
 Starting from my Ph.D., the central thread of my research is to introduce, extend, and analyse advanced mathematical
 models and non-standard numerical schemes, to facilitate and increase the knowledge of flow in fractured porous media.
 Keeping in mind real applications, I focused my research mainly on 2 aspects. 1) To derive appropriate reduced order

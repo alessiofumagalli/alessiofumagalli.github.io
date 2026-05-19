@@ -3,7 +3,15 @@ permalink: /education/
 title: "Education"
 ---
 
+<style>
+	.small-list {
+		font-size: 0.92em;
+	}
+</style>
+
 ## Teaching activities
+
+<div class="small-list">
 
 13. 3-11 Nov. 2025: lecturer of the master course Modeling and Simulation of Fault Stability in Subsurface Fluid Injection, School of Civil Engineering, Xi’an University of Architecture & Technology, China.
 12. A.Y. 2023-2024: lecturer of the undergraduate course Curves and Surfaces for the Design, Product Design, [Politecnico di Milano](https://www.polimi.it/).
@@ -28,14 +36,22 @@ di Torino. Lecturer Claudio Canuto.
 1. A.Y. 2017-2018: lecturer for the graduate and Ph.D. course Flow in Porous Media, [Department of Mathematics](https://www.uib.no/en/math),
 University of Bergen. In collaboration with Florin Adrian Radu.
 
+</div>
+
 ## PhD student advising
+
+<div class="small-list">
 
 2. Enrico Ballini. Advisor: Luca Formaggia, Co-advisor: Alessio Fumagalli. [Politecnico di Milano](https://www.polimi.it/), Nov. 2024.
 1. Lorenzo Panzeri. Advisor: Laura Longoni, Co-advisor: Alessio Fumagalli. [Politecnico di Milano](https://www.polimi.it/), Nov. 2025.
 
+</div>
+
 
 
 ## Student advising
+
+<div class="small-list">
 
 10. Michela De Gabriele. “Modeling temperature-driven fluid flow in porous media with Mixed and Finite Volume
 method”. Advisor: Alessio Fumagalli. Master Thesis. [Politecnico di Milano](https://www.polimi.it/), Oct. 2024.
@@ -59,9 +75,15 @@ Co-advisor: Alessio Fumagalli. Master Thesis. [Politecnico di Milano](https://ww
 1. Guido Iori. “Una metodologia XFEM per problemi ellittici 3D con superfici di discontinuità”. Advisor: Luca
 Formaggia. Co-advisor: Alessio Fumagalli. Master Thesis. [Politecnico di Milano](https://www.polimi.it/), Dec. 2011.
 
+</div>
+
 ## Pedagogical training
+
+<div class="small-list">
 
 1. A.Y. 2017-2018: attending the course Hot Moments in Teaching and Learning: Handling Conflict or Tension in
 the Classroom and Supervision Situations, Program for University Pedagogy, Faculty of Psychology, University of
 Bergen. Lecturer Yael Harlap. 18 hours.
+
+</div>
 

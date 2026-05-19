@@ -3,10 +3,19 @@ permalink: /cv/scientific-activities/
 title: "CV - Scientific Activities"
 ---
 
+<style>
+	.small-list {
+		font-size: 0.92em;
+	}
+</style>
+
 [Back to CV index](/cv/)
 
-Scientific activities
-Articles published
+<div class="small-list">
+
+## Scientific activities
+
+### Articles published
 [A56] HuaiZheng Wang, Bo Wen, Alessio Fumagalli, Marco Berardi, Jie Cao, and Jiwen Zhang. “Evolution of mechanical properties and damage constitutive modeling of composite waste glass concrete under high-temperature
 sustained loading conditions”. In: Construction and Building Materials 520 (2026), p. 146025. issn: 0950-0618.
 doi: 10.1016/j.conbuildmat.2026.146025.
@@ -232,7 +241,7 @@ url: https://www.sciencedirect.com/science/article/pii/S0309170813000523
 fractures”. In: Communications in Applied and Industrial Mathematics 3.1 (2011). issn: 2038-0909. doi: 10.1
 685/journal.caim.380.
 url: http://caim.simai.eu/index.php/caim/article/view/380
-Conference proceedings
+### Conference proceedings
 [P9] L. Panzeri, A. Fumagalli, L. Zanzi, L. Longoni, M. Papini, and D. Arosio. “Validation of a Mixed-Dimensional
 Code for the Analysis of Highly Resistive Liners in Landfills”. In: European Association of Geoscientists & Engineers. 1. 2023, pp. 1–5. doi: 10.3997/2214-4609.202320123.
 url: https://www.earthdoc.org/content/papers/10.3997/2214-4609.202320123
@@ -273,7 +282,7 @@ url: https://link.springer.com/chapter/10.1007/978-3-642-33134-3_53
 2012 Proceedings. 2012.
 url: http://cmwr2012.cee.illinois.edu/Papers/Special%20Sessions/CO2%20Sequestration/Sco
 tti.Anna.pdf
-Articles submitted for review
+### Articles submitted for review
 [S6] Luigi Bruno, Alessio Mainini, Luca Demurtas, Diego Arosio, Alessio Fumagalli, Alessandro Ghinoi, Giacomo
 Carloni, and Luca Martelli. “Integrated geophysical and stratigraphic surveys for fault mapping at the Apennine-Po
 Plain margin, northern Italy”. Submitted to: Engineering Geology. 2026.
@@ -291,7 +300,7 @@ to Building and Environment. 2025.
 reduction of parametric ordinary differential equations via autoencoders: structure-preserving latent dynamics and
 convergence analysis”. Submitted to Mathematics in Engineering. 2025.
 
-Open-source software development
+### Open-source software development
 2022, Feb. – Core developer of PyGeoN: a Python package for Geo-Numerics. PyGeoN is developed by the Geosciences & Protection of Land and Water Resources group at MOX laboratory, [Politecnico di Milano](https://www.polimi.it/), Italy. See
 http://github.com/compgeo-mox/pygeon.
 2017, May – 2022, Feb. Core developer of PorePy: A Simulation Tool for Fractured and Deformable Porous Media
@@ -302,7 +311,7 @@ library LifeV. LifeV is developed by the groups: CMCS (École polytechnique fe�
 de recherche en informatique et en automatique - INRIA, France). See www.lifev.org and https://github.
 com/lifev/lifev.
 
-Editorial activities
+### Editorial activities
 2019 Alessio Fumagalli, Inga Berre, Luca Formaggia, Eirik Keilegavlen, and Anna Scotti, eds. Numerical Methods for
 Processes in Fractures Porous Media. Lecture Notes in Geosystems Mathematics and Computing. In production.
 Springer, 2019.
@@ -311,4 +320,6 @@ Springer, 2019.
 2018, Mar. – Editor of the journal GEM – International Journal on Geomathematics, Springer.
 2017, Ott. – 2018, Feb. Corresponding Guest Editor for the topical collection “Numerical methods for processes in fractured porous media” of the journal GEM – International Journal on Geomathematics, Springer. Co-Guest Editors
 Anna Scotti, Luca Formaggia, Inga Berre, Eirik Keilegavlen. 12 papers published. [link].
+
+</div>
 

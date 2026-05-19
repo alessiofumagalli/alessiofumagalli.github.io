@@ -17,6 +17,7 @@ search: false
 
 author:
   name: "Alessio Fumagalli"
+  avatar: "/assets/images/profile.jpg"
   bio: "[Department of Mathematics](https://www.mate.polimi.it/), [Politecnico di Milano](https://www.polimi.it/)"
   location: "Milan, Italy"
   email: "alessio.fumagalli@polimi.it"

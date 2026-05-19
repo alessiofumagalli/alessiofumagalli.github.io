@@ -11,9 +11,3 @@ The web version is split into sections for easier navigation:
 
 - [Career, education, and research outline](/cv/career/)
 - [Conference, workshop, and seminar participation](/cv/participation/)
-
-The following sections were moved out of the CV tab:
-
-- Research output (articles, proceedings, submitted papers, editorial activities): [Research](/research/)
-- Open-source software development: [Software](/software/)
-- Teaching, student advising, and pedagogical training: [Education](/education/)
