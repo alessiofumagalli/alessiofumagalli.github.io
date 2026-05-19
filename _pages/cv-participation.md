@@ -8,7 +8,7 @@ title: "CV - Participation in Conferences, Workshops, and Seminars"
 Participation to conferences, workshops and seminars
 Organization
 20. Member of the scientific and organizing committee of the workshop Mathematics for planet Earth (M4E) 2024.
-Politecnico di Milano, Italy. 11–12 Nov. 2024. Web site www.mate.polimi.it/events/M4E24.
+[Politecnico di Milano](https://www.polimi.it/), Italy. 11–12 Nov. 2024. Web site www.mate.polimi.it/events/M4E24.
 19. Minisymposium title Theoretical and numerical advances for mixed-dimensional 3d-1d coupling at the Seventh
 Chilean Workshop on Numerical Analysis of Partial Differential Equations (WONAPDE 2024), 4 participants. Universidad de Concepción, Concepción, Chile. 15–19 Jan. 2024. Co-organizers Luca Formaggia and Miroslav Kuchta.
 18. Minisymposium title Theoretical and numerical advances for mixed-dimensional 3d-1d coupling at the SIAM Mathematical & Computational Issues on Geosciences (SIAM-GS), 8 participants. University of Bergen, Bergen, Norvegia. 19–22 Jun. 2023. Co-organizer Stefano Scialò.
@@ -26,7 +26,7 @@ Sep. 2021. Co-organizer Stefano Scialò.
 at SIAM Mathematical & Computational Issues on Geosciences (SIAM-GS) 2021, 5 participants. Politecnico di
 Milano, Milan, Italy (Held Online). 21–24 Jun. 2021. Co-organizers Rene de Borst.
 13. Member of the local organizing committee of the conference SIAM Mathematical & Computational Issues on
-Geosciences (SIAM-GS) 2021. Politecnico di Milano, Milan, Italy (Held Online). 21–24 Jun. 2021. Web site
+Geosciences (SIAM-GS) 2021. [Politecnico di Milano](https://www.polimi.it/), Milan, Italy (Held Online). 21–24 Jun. 2021. Web site
 siam.org/conferences/cm/conference/gs21.
 12. Minisymposium title Verification benchmarks for single-phase flow in three-dimensional fractured porous media at
 SIAM Mathematical & Computational Issues on Geosciences (SIAM-GS) 2019, 8 participants. Houston Marriott
@@ -59,7 +59,7 @@ Matematica Applicata e Industriale (SIMAI) Biannual Congress, 4 participants. Po
 
 
 Oral presentations
-63. Reduced-order modeling techniques for subsurface simulations. Online seminar at Applied Mathematics and Computation Seminars, Department of Mathematics, Oregon State University. 16 Jan. 2026. Co-authors Enrico Ballini,
+63. Reduced-order modeling techniques for subsurface simulations. Online seminar at Applied Mathematics and Computation Seminars, [Department of Mathematics](https://math.oregonstate.edu), Oregon State University. 16 Jan. 2026. Co-authors Enrico Ballini,
 Wietse M. Boon, Luca Formaggia, Nicola R. Franco, Anna Scotti, Paolo Zunino. Invited.
 62. Model Reduction Methods for Efficient Simulation of Faulted Poroelastic Media. Seminar at Xi’an University of
 Architecture & Technology, China. 6 Nov. 2025. Co-authors Enrico Ballini, Alberto Cominelli, Laura Dovera, Luca
@@ -180,7 +180,7 @@ Eirik Keilegavlen. Invited in minisymposium.
 19. Integrated flow simulation and outcrop interpretation in fractured geothermal systems. Seminar at Department of
 Applied Mathematics in SINTEF, Oslo, Norway. 21 Sep. 2016. Co-author Eirik Keilegavlen. Organizer Xavier
 Raynaud. Invited.
-18. An integrated geological and mathematical framework for geothermal reservoirs. from outcrops to a VEM approximation. Seminar at Department of Mathematics of University of Milano-Bicocca, Milan, Italy. 2 Sep. 2016.
+18. An integrated geological and mathematical framework for geothermal reservoirs. from outcrops to a VEM approximation. Seminar at [Department of Mathematics](https://www.matapp.unimib.it/en) of University of Milano-Bicocca, Milan, Italy. 2 Sep. 2016.
 Co-author Eirik Keilegavlen. Organizer Franco Dassi. Invited.
 17. An integrated geological and mathematical framework for geothermal reservoirs. Flow & Transport in Permeable
 Media, Gordon Research Seminar. PGA Catalunya Business and Convention, Girona, Spain. 30–31 Jul. 2016.
@@ -206,7 +206,7 @@ Jean E. Roberts. Invited in minisymposium.
 10. Numerical methods for flows in fractured porous media. FRACINI first workshop. INRIA Rennes - Bretagne Atlantique, Rennes, France. 28–30 Apr. 2014. Co-authors Luca Formaggia, Anna Scotti. Invited in workshop.
 9. XFEM for heterogeneous porous media with networks of fractures. XFEM 2013, thematic conference of ECCOMAS.
 Espace Tête d’Or, Lyon, France. 11–13 Sep. 2013. Co-authors Luca Formaggia, Anna Scotti.
-8. Assessment of an HPC two-phase flow solver in porous media for realistic cases. SIAM Mathematical & Computational Issues on Geosciences (SIAM-GS) 2013. Department of Mathematics University of Padova, Italy. 17–20
+8. Assessment of an HPC two-phase flow solver in porous media for realistic cases. SIAM Mathematical & Computational Issues on Geosciences (SIAM-GS) 2013. [Department of Mathematics](https://www.math.unipd.it/en/) University of Padova, Italy. 17–20
 Jun. 2013. Co-authors Antonio Cervone, Luca Formaggia. Invited in minisymposium.
 7. XFEM for Darcy problems with networks of fractures. Società Italiana per la Matematica Applicata e Industriale
 (SIMAI) Biannual Congress. Politecnico di Torino, Turin, Italy. 25–26 Jun. 2012. Co-authors Luca Formaggia,
@@ -221,9 +221,9 @@ Matematica Italiana (UMI). Dipartimento di Matematica dell’Università di Bol
 Mathematical & Computational Issues on Geosciences. Hilton Long Beach Centre, Long Beach, California, USA.
 21–24 Mar. 2011. Co-author Anna Scotti.
 3. Models for oil expulsion and migration in fractured media. Reduction Strategies for the Simulation of Complex
-Problems. MOX, Department of Mathematics, Politecnico di Milano, Milan, Italy. 19–21 Jan. 2011. Co-authors
+Problems. MOX, [Department of Mathematics](https://www.mate.polimi.it/), [Politecnico di Milano](https://www.polimi.it/), Milan, Italy. 19–21 Jan. 2011. Co-authors
 Luca Formaggia, Anna Scotti
-2. Darcy solvers. Second LifeV annual meeting. MOX, Department of Mathematics, Politecnico di Milano, Milan,
+2. Darcy solvers. Second LifeV annual meeting. MOX, [Department of Mathematics](https://www.mate.polimi.it/), [Politecnico di Milano](https://www.polimi.it/), Milan,
 Italy. 3–4 Jan. 2011.
 1. Computational aspects for oil secondary migration. Seminar held at INRIA Roquencourt, Paris, France. 16 Sep.
 2010. Organizers: Jérôme Jaffré, Michel Kern. Invited.

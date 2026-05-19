@@ -9,7 +9,6 @@ The latest version of my CV is available here:
 
 The web version is split into sections for easier navigation:
 
-- [Profile and identifiers](/cv/profile/)
 - [Career, education, and research outline](/cv/career/)
 - [Conference, workshop, and seminar participation](/cv/participation/)
 
