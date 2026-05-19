@@ -5,6 +5,10 @@ main:
     url: /cv/
   - title: "Research"
     url: /research/
+  - title: "Software"
+    url: /software/
+  - title: "Education"
+    url: /education/
   - title: "Teaching"
     url: /teaching/
   - title: "Contact"

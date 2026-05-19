@@ -11,6 +11,10 @@ The web version is split into sections for easier navigation:
 
 - [Profile and identifiers](/cv/profile/)
 - [Career, education, and research outline](/cv/career/)
-- [Scientific activities](/cv/scientific-activities/)
-- [Educational activities](/cv/educational-activities/)
 - [Conference, workshop, and seminar participation](/cv/participation/)
+
+The following sections were moved out of the CV tab:
+
+- Research output (articles, proceedings, submitted papers, editorial activities): [Research](/research/)
+- Open-source software development: [Software](/software/)
+- Teaching, student advising, and pedagogical training: [Education](/education/)
